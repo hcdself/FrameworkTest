@@ -1,0 +1,22 @@
+{
+  "name": "FrameworkTest",
+  "version": "0.1.0",
+  "summary": "some test",
+  "description": "learn to use this tool",
+  "homepage": "https://github.com/hcdself/FrameworkTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hcdself": "1332971097@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hcdself/FrameworkTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FrameworkTest/Classes/**/*"
+}

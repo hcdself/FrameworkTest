@@ -1,0 +1,16 @@
+PODS:
+  - FrameworkTest (0.1.0)
+
+DEPENDENCIES:
+  - FrameworkTest (from `../`)
+
+EXTERNAL SOURCES:
+  FrameworkTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FrameworkTest: df6fb73a30a2624e0777df2177f009399379767c
+
+PODFILE CHECKSUM: 202b920d759bc03102d4e130961717636a8d60a5
+
+COCOAPODS: 1.10.1
